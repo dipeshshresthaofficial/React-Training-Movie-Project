@@ -1,0 +1,11 @@
+@import "../common/colors.scss";
+
+.movielist-container{
+    background-color: $primary-color;
+    padding: 100px 250px;
+    .movielist-inner{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,12 @@
+@import "../common/colors.scss";
+
+.footer-container{
+    background-color: $secondary-color;
+    color: #fff;
+    max-height: 70px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
