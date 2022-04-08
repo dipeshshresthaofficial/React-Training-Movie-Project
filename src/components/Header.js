@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <div className="header-container">
       <Link to="/" style={{ textDecoration: 'none', color: '#fff' }}>
-        <h3>MovieApp</h3>
+        <h3>DDFlix</h3>
       </Link>
       <img
         src="https://www.pngkey.com/png/full/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
